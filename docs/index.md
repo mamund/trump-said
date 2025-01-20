@@ -2,7 +2,7 @@ A daily listing of quotes from the 47th president.
 
 
 ### 2025-01-17
-On January 17, 2025, President-elect Donald Trump discussed the future of the TikTok app, stating, "The decision is ultimately up to me."   [link](https://www.reuters.com/world/us/trump-says-tiktok-decision-is-up-him-offers-no-details-2025-01-17)
+On January 17, 2025, President-elect Donald Trump discussed the future of the TikTok app, stating, "The decision is ultimately up to me."
 
 ### 2025-01-18
 On January 18, 2025, President-elect Donald Trump announced plans to intensify immigration enforcement immediately after his inauguration. He stated, "We will begin removing the illegal aliens who have infiltrated our country." 
