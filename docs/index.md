@@ -1,15 +1,10 @@
 A daily listing of quotes from the 47th president.
 
 
-### 2025-01-17
-On January 17, 2025, President-elect Donald Trump discussed the future of the TikTok app, stating, "The decision is ultimately up to me."
+### 2025-01-20
+On January 20, 2025, during his inaugural address, President Donald Trump declared that the United States would reclaim control of the Panama Canal. He stated, "The purpose of our deal and the spirit of our treaty has been totally violated." 
 
-#usPolitics
-
-### 2025-01-18
-On January 18, 2025, President-elect Donald Trump announced plans to intensify immigration enforcement immediately after his inauguration. He stated, "We will begin removing the illegal aliens who have infiltrated our country." 
-
-This announcement has raised concerns among immigrant communities and human rights organizations, who fear that such actions could lead to widespread detentions and deportations, potentially separating families and disrupting communities. 
+No further details were provided regarding this plan. 
 
 #usPolitics
 
@@ -20,10 +15,16 @@ This decision has raised concerns among historians and security experts, who war
 
 #usPolitics
 
-### 2025-01-20
-On January 20, 2025, during his inaugural address, President Donald Trump declared that the United States would reclaim control of the Panama Canal. He stated, "The purpose of our deal and the spirit of our treaty has been totally violated." 
+### 2025-01-18
+On January 18, 2025, President-elect Donald Trump announced plans to intensify immigration enforcement immediately after his inauguration. He stated, "We will begin removing the illegal aliens who have infiltrated our country." 
 
-No further details were provided regarding this plan. 
+This announcement has raised concerns among immigrant communities and human rights organizations, who fear that such actions could lead to widespread detentions and deportations, potentially separating families and disrupting communities. 
 
 #usPolitics
+
+### 2025-01-17
+On January 17, 2025, President-elect Donald Trump discussed the future of the TikTok app, stating, "The decision is ultimately up to me."
+
+#usPolitics
+
 
