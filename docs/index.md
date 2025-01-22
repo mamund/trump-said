@@ -1,5 +1,11 @@
 A daily listing of quotes from the 47th president.
 
+### 2025-01-21
+On January 21, 2025, President Donald Trump signed an executive order facilitating the dismissal of thousands of federal employees, allowing for their replacement with political appointees. 
+
+This move was criticized by unions, with the National Treasury Employees Union filing a lawsuit, arguing that the order strips workers of due process rights. 
+
+#usPolitics #trumpSaid
 
 ### 2025-01-20
 On January 20, 2025, during his inaugural address, President Donald Trump declared that the United States would reclaim control of the Panama Canal. He stated, "The purpose of our deal and the spirit of our treaty has been totally violated." 
