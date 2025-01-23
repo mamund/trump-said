@@ -1,5 +1,10 @@
 A daily listing of quotes from the 47th president.
 
+### 2025-01-22
+On January 22, 2025, President Donald Trump threatened Russia with increased taxes, tariffs, and sanctions if a peace agreement to end the war in Ukraine was not reached promptly. He emphasized that Russia's economy was struggling and urged President Vladimir Putin to negotiate an end to the conflict, stating that failure to do so would result in significant economic penalties. [Guardian](https://www.theguardian.com/us-news/2025/jan/22/trump-threatens-putin-with-taxes-tariffs-and-sanctions-over-ukraine-war?utm_source=chatgpt.com)
+
+#usPolitics #trumpSaid
+
 ### 2025-01-21
 On January 21, 2025, President Donald Trump signed an executive order facilitating the dismissal of thousands of federal employees, allowing for their replacement with political appointees. 
 
