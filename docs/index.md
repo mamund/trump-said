@@ -1,5 +1,12 @@
 A daily listing of quotes from the 47th president.
 
+### 2025-01-23
+On January 23, 2025, President Donald Trump delivered a virtual address to the World Economic Forum in Davos, where he emphasized his "America First" agenda. He criticized oil producers, particularly OPEC and Saudi Arabia, for sustaining the Ukraine war by keeping oil prices high, thereby benefiting Russia. Trump stated, "We will no longer allow foreign nations to take advantage of us." He also threatened to impose sweeping tariffs on all U.S. imports to encourage domestic production and urged NATO countries to increase defense spending to 5% of GDP, emphasizing a reduced dependency on the U.S. Additionally, he called for the Federal Reserve to cut interest rates immediately to stimulate the economy. 
+
+Trump further criticized the U.S.'s trade relationship with China, highlighting significant deficits. His aggressive economic policies, including tariffs, face skepticism regarding their potential to raise inflation. Trump's return to the global stage elicited a mixed reaction from Davos attendees, especially for his anti-equality stance, and his speech also contained several false claims about climate change and the Ukraine war. ([The Guardian](https://www.theguardian.com/us-news/2025/jan/23/donald-trump-imports-to-us-tariffs-davos-economic-policy-nato-spending?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
 ### 2025-01-22
 On January 22, 2025, President Donald Trump threatened Russia with increased taxes, tariffs, and sanctions if a peace agreement to end the war in Ukraine was not reached promptly. He emphasized that Russia's economy was struggling and urged President Vladimir Putin to negotiate an end to the conflict, stating that failure to do so would result in significant economic penalties. [Guardian](https://www.theguardian.com/us-news/2025/jan/22/trump-threatens-putin-with-taxes-tariffs-and-sanctions-over-ukraine-war?utm_source=chatgpt.com)
 
