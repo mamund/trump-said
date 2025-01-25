@@ -1,5 +1,12 @@
 A daily listing of quotes from the 47th president.
 
+### 2025-01-24
+On January 24, 2025, President Donald Trump, during a visit to North Carolina, expressed his dissatisfaction with the Federal Emergency Management Agency (FEMA), stating:
+
+"I think, frankly, that FEMA is not good. I think when you have a problem like this, I think you want to use your state to fix it and not waste time calling FEMA... I think we're going to recommend that FEMA go away." ([theguardian.com](https://www.theguardian.com/us-news/live/2025/jan/24/us-politics-donald-trump-tariffs-china-birthright-citizenship-latest-news-updates?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
 ### 2025-01-23
 On January 23, 2025, President Donald Trump delivered a virtual address to the World Economic Forum in Davos, where he emphasized his "America First" agenda. He criticized oil producers, particularly OPEC and Saudi Arabia, for sustaining the Ukraine war by keeping oil prices high, thereby benefiting Russia. Trump stated, "We will no longer allow foreign nations to take advantage of us." He also threatened to impose sweeping tariffs on all U.S. imports to encourage domestic production and urged NATO countries to increase defense spending to 5% of GDP, emphasizing a reduced dependency on the U.S. Additionally, he called for the Federal Reserve to cut interest rates immediately to stimulate the economy. 
 
