@@ -1,5 +1,12 @@
 A daily listing of quotes from the 47th president.
 
+### 2025-01-25
+On January 25, 2025, President Donald Trump, aboard Air Force One, discussed the situation in Gaza and proposed relocating its residents:
+
+"You're talking about probably a million and a half people, and we just clean out that whole thing and say, 'You know, it's over.'" ([The Guardian](https://www.theguardian.com/world/live/2025/jan/26/middle-east-crisis-live-displaced-palestinians-northern-gaza-hamas-hezbollah?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
 ### 2025-01-24
 On January 24, 2025, President Donald Trump, during a visit to North Carolina, expressed his dissatisfaction with the Federal Emergency Management Agency (FEMA), stating:
 
