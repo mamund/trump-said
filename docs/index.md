@@ -1,4 +1,4 @@
-A daily listing of quotes from the 47th president.
+A collection of utterances from the 47th president.
 
 ### 2025-01-26
 On January 26, 2025, President Donald Trump expressed his belief that the United States will take control of Greenland, stating:
