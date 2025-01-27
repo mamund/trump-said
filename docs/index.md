@@ -3,7 +3,7 @@ A collection of utterances from the 47th president.
 ### 2025-01-26
 On January 26, 2025, President Donald Trump expressed his belief that the United States will take control of Greenland, stating:
 
-> "I think we're going to have it," and claimed that the Arctic island's residents "want to be with us." ([theguardian.com](https://www.theguardian.com/us-news/2025/jan/26/donald-trump-residents-greenland-us?utm_source=chatgpt.com))
+"I think we're going to have it," and claimed that the Arctic island's residents "want to be with us." ([theguardian.com](https://www.theguardian.com/us-news/2025/jan/26/donald-trump-residents-greenland-us?utm_source=chatgpt.com))
 
 #usPolitics #trumpSaid
 
