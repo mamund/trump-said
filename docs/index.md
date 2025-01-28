@@ -1,5 +1,12 @@
 A collection of utterances from the 47th president.
 
+### 2025-01-27
+On January 27, 2025, President Donald Trump signed executive orders to eliminate diversity, equity, and inclusion (DEI) programs from the U.S. military and to reinstate service members who were discharged for refusing COVID-19 vaccinations. He emphasized a return to traditional military values, stating:
+
+"We're getting rid of the woke policies that have weakened our military and distracted from our mission. We're bringing back the warriors who were unfairly pushed out." ([theguardian.com](https://www.theguardian.com/us-news/live/2025/jan/27/donald-trump-us-politics-colombia-deportations-trade-war-latest-news-updates?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
 ### 2025-01-26
 On January 26, 2025, President Donald Trump expressed his belief that the United States will take control of Greenland, stating:
 
