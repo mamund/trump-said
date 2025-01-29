@@ -1,7 +1,7 @@
 A collection of utterances from the 47th president.
 
 ### 2025-01-28 
-On January 28, 2025, President Donald Trump dismissed Gwynne Wilcox, a Democratic member of the U.S. National Labor Relations Board (NLRB), a move she described as "unprecedented and illegal." This action left the NLRB without a quorum, hindering its ability to issue decisions on labor law violations. Wilcox, appointed by former President Joe Biden, pledged to challenge her dismissal legally. Union leaders criticized the move, expressing concerns that it would disrupt the board's operations and weaken workers' rights. ([reuters.com](https://www.reuters.com/world/us/trump-fires-us-labor-board-member-hobbling-agency-amid-legal-battles-2025-01-28/?utm_source=chatgpt.com))
+On January 28, 2025, President Donald Trump stated, "I have just asked Elon Musk and @SpaceX to 'go get' the 2 brave astronauts who have been virtually abandoned in space by the Biden Administration." ([reuters.com](https://www.reuters.com/technology/space/trump-musk-suggest-sped-up-return-nasa-astronauts-details-scarce-2025-01-29/?utm_source=chatgpt.com)) )
 
 #usPolitics #trumpSaid
 
