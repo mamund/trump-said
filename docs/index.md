@@ -1,7 +1,7 @@
 A collection of utterances from the 47th president.
 
 ### 2025-01-29
-On January 29, 2025, President Donald Trump signed an executive order to prepare a large detention facility at Guantánamo Bay, stating, "Some of them are so bad, we don't even trust the countries [of origin] to hold them because we don't want them coming back." He emphasized, "So we're going to send them out to Guantánamo. This will double our capacity immediately." ([theguardian.com](https://www.theguardian.com/us-news/2025/jan/29/trump-guantanamo-detention-center?utm_source=chatgpt.com))
+On January 29, 2025, President Donald Trump signed an executive order to prepare a large detention facility at Guantánamo Bay, stating, "Some of them are so bad, we don't even trust the countries [of origin] to hold them because we don't want them coming back." He emphasized, "So we're going to send them out to Guantánamo. This will double our capacity immediately." ([The Guardian](https://www.theguardian.com/us-news/2025/jan/29/trump-guantanamo-detention-center?utm_source=chatgpt.com))
 
 #usPolitics #trumpSaid
 
