@@ -1,9 +1,28 @@
 A collection of utterances from the 47th president.
 
+### 2025-01-31 
+On January 31, 2025, following a tragic mid-air collision near Washington D.C. that resulted in 67 fatalities, President Donald Trump attributed the incident to diversity and inclusion initiatives within the Federal Aviation Administration (FAA). He stated:
+
+"We had the highest standard that you could have, and then they changed it back—that was Biden." ([theguardian.com](https://www.theguardian.com/us-news/2025/jan/30/trump-washington-dc-plane-crash-dei?utm_source=chatgpt.com))
+
+He further criticized former Transportation Secretary Pete Buttigieg, asserting:
+
+"He's just got a good line of bullshit." ([theguardian.com](https://www.theguardian.com/us-news/2025/jan/30/trump-washington-dc-plane-crash-dei?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
+### 2025-01-30
+On January 30, 2025, President Donald Trump announced the imposition of substantial tariffs on imports from Canada, Mexico, and China, effective February 1. Goods from Canada and Mexico will face a 25% tariff, while Chinese products will incur a 10% tariff. Trump stated that these measures are in response to issues such as illegal fentanyl imports and migration concerns. 
+
+He also indicated potential future tariffs on European Union imports if European countries do not comply with his demands. Canada and Mexico have pledged to respond forcefully, and China has vowed to defend its interests. Economists warn that these tariffs could lead to higher prices for American consumers. 
+
+Despite concerns from trading partners and potential economic disruptions, Trump believes the tariffs will generate significant revenue for the U.S. and force countries to comply with his policies. The stock market reacted negatively, with the Dow Jones Industrial Average dropping by 0.75%. ([theguardian.com](https://www.theguardian.com/us-news/2025/jan/31/trump-tariffs-canada-mexico-china?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
 ### 2025-01-29
 On January 29, 2025, President Donald Trump signed an executive order to prepare a large detention facility at Guantánamo Bay, stating, "Some of them are so bad, we don't even trust the countries [of origin] to hold them because we don't want them coming back." He emphasized, "So we're going to send them out to Guantánamo. This will double our capacity immediately." ([The Guardian](https://www.theguardian.com/us-news/2025/jan/29/trump-guantanamo-detention-center?utm_source=chatgpt.com))
 
-#usPolitics #trumpSaid
 
 ### 2025-01-28 
 On January 28, 2025, President Donald Trump stated, "I have just asked Elon Musk and @SpaceX to 'go get' the 2 brave astronauts who have been virtually abandoned in space by the Biden Administration." ([reuters.com](https://www.reuters.com/technology/space/trump-musk-suggest-sped-up-return-nasa-astronauts-details-scarce-2025-01-29/?utm_source=chatgpt.com)) )
