@@ -1,5 +1,12 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-01
+On February 1, 2025, President Donald Trump addressed the recent U.S. airstrikes in Somalia targeting Islamic State operatives. He stated:
+
+> "These killers, who we found hiding in caves, threatened the United States and our Allies. The strikes destroyed the caves they live in, and killed many terrorists without, in any way, harming civilians." ([theguardian.com](https://www.theguardian.com/world/2025/feb/01/donald-trump-us-airstrikes-islamic-state-somalia?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
 ### 2025-01-31 
 On January 31, 2025, following a tragic mid-air collision near Washington D.C. that resulted in 67 fatalities, President Donald Trump attributed the incident to diversity and inclusion initiatives within the Federal Aviation Administration (FAA). He stated:
 
