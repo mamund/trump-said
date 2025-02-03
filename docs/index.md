@@ -7,7 +7,6 @@ On February 2, 2025, President Donald Trump criticized the United States Agency 
 
 #usPolitics #trumpSaid
 
-
 ### 2025-02-01
 On February 1, 2025, President Donald Trump addressed the recent U.S. airstrikes in Somalia targeting Islamic State operatives. He stated:
 
