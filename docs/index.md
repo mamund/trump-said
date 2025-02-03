@@ -1,5 +1,13 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-02
+On February 2, 2025, President Donald Trump criticized the United States Agency for International Development (USAID), stating:
+
+> "USAID is run by a bunch of radical lunatics, and we're getting them out." ([theguardian.com](https://www.theguardian.com/us-news/2025/feb/03/donald-trump-cutting-funding-south-africa-land-confiscations-cyril-ramaphosa?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
+
 ### 2025-02-01
 On February 1, 2025, President Donald Trump addressed the recent U.S. airstrikes in Somalia targeting Islamic State operatives. He stated:
 
