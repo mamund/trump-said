@@ -1,5 +1,13 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-05 
+On February 3, 2025, President Donald Trump proposed that the United States take long-term ownership of the Gaza Strip, stating:
+
+> "We can take over the Gaza Strip, we'll own it, and we'll do it for the good of everyone." 
+([THEGUARDIAN.COM](https://www.theguardian.com/world/2025/feb/05/donald-trump-plan-to-take-over-gaza-strip-netanyahu-visit?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
 ### 2025-02-03
 On February 3, 2025, President Donald Trump signed an executive order directing the U.S. Treasury and Commerce Departments to establish a sovereign wealth fund, stating:
 
