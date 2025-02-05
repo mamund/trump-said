@@ -1,5 +1,15 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-03
+On February 3, 2025, President Donald Trump signed an executive order directing the U.S. Treasury and Commerce Departments to establish a sovereign wealth fund, stating:
+
+> "We have tremendous potential. I think in a short period of time, we'd have one of the biggest funds." 
+([THEGUARDIAN.COM](https://www.theguardian.com/us-news/2025/feb/03/trump-sovereign-wealth-fund-tiktok?utm_source=chatgpt.com))
+
+He suggested that this fund could be utilized to facilitate the purchase of TikTok.
+
+#usPolitics #trumpSaid
+
 ### 2025-02-02
 On February 2, 2025, President Donald Trump criticized the United States Agency for International Development (USAID), stating:
 
