@@ -3,14 +3,14 @@ A collection of utterances from the 47th president.
 ### 2025-04-06 
 On February 6, 2025, President Donald Trump reiterated a right-wing conspiracy theory alleging that USAID made substantial payments to media outlets, particularly Politico, as "payoffs" for favorable coverage. He stated:
 
-> "LOOKS LIKE BILLIONS OF DOLLARS HAVE BEEN STOLLEN AT USAID, AND OTHER AGENCIES, MUCH OF IT GOING TO THE FAKE NEWS MEDIA AS A 'PAYOFF' ..." 
+> "LOOKS LIKE BILLIONS OF DOLLARS HAVE BEEN STOLLEN AT USAID, AND OTHER AGENCIES, MUCH OF IT GOING TO THE FAKE NEWS MEDIA AS A 'PAYOFF' ..." ([cite](https://www.theguardian.com/us-news/2025/feb/06/trump-politico-usaid-subcriptions))
 
-This claim was based on misinformation suggesting that USAID funneled $8 million to Politico. In reality, the federal government made payments to Politico for subscription services, amounting to $44,000 from USAID in 2023 and  ... . These payments were for subscriptions, not grants or aid. citeturn0news10
+This claim was based on misinformation suggesting that USAID funneled $8 million to Politico. In reality, the federal government made payments to Politico for subscription services, amounting to $44,000 from USAID in 2023 and  ... . These payments were for subscriptions, not grants or aid. 
 
 #usPolitics #trumpSaid
 
 ### 2025-02-05
-On February 5, 2025, President Donald Trump signed an executive order banning transgender women and girls from participating in female school sports. At the signing ceremony, he declared, "The war on women's sports is over." 
+On February 5, 2025, President Donald Trump signed an executive order banning transgender women and girls from participating in female school sports. At the signing ceremony, he declared, "The war on women's sports is over." ([cite](https://www.reuters.com/world/us/trump-administration-target-transgender-women-sports-white-house-says-2025-02-05/?utm_source=chatgpt.com))
 
 #usPolitics #trumpSaid
 
