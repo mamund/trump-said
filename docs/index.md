@@ -1,5 +1,19 @@
 A collection of utterances from the 47th president.
 
+### 2025-04-06 
+On February 6, 2025, President Donald Trump reiterated a right-wing conspiracy theory alleging that USAID made substantial payments to media outlets, particularly Politico, as "payoffs" for favorable coverage. He stated:
+
+> "LOOKS LIKE BILLIONS OF DOLLARS HAVE BEEN STOLLEN AT USAID, AND OTHER AGENCIES, MUCH OF IT GOING TO THE FAKE NEWS MEDIA AS A 'PAYOFF' ..." 
+
+This claim was based on misinformation suggesting that USAID funneled $8 million to Politico. In reality, the federal government made payments to Politico for subscription services, amounting to $44,000 from USAID in 2023 and  ... . These payments were for subscriptions, not grants or aid. citeturn0news10
+
+#usPolitics #trumpSaid
+
+### 2025-02-05
+On February 5, 2025, President Donald Trump signed an executive order banning transgender women and girls from participating in female school sports. At the signing ceremony, he declared, "The war on women's sports is over." 
+
+#usPolitics #trumpSaid
+
 ### 2025-02-04
 On February 4, 2025, during a joint press conference with Israeli Prime Minister Benjamin Netanyahu, President Donald Trump announced:
 
