@@ -1,7 +1,7 @@
 A collection of utterances from the 47th president.
 
 ### 2025-04-07
-On February 7, 2025, President Donald Trump announced plans to implement reciprocal tariffs on numerous countries, stating, "Next week, we will be announcing reciprocal tariffs on many countries that have taken advantage of the United States for decades." He emphasized that these measures aim to address longstanding trade imbalances and protect American industries. citeturn0news10
+On February 7, 2025, President Donald Trump announced plans to implement reciprocal tariffs on numerous countries, stating, "Next week, we will be announcing reciprocal tariffs on many countries that have taken advantage of the United States for decades." He emphasized that these measures aim to address longstanding trade imbalances and protect American industries. ([cite](https://www.reuters.com/world/us/trump-told-gop-lawmakers-he-plans-announce-reciprocal-tariffs-early-friday-2025-02-07/?utm_source=chatgpt.com))
 
 #usPolitics #trumpSaid
 
