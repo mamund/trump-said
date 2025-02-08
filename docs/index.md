@@ -1,5 +1,10 @@
 A collection of utterances from the 47th president.
 
+### 2025-04-07
+On February 7, 2025, President Donald Trump announced plans to implement reciprocal tariffs on numerous countries, stating, "Next week, we will be announcing reciprocal tariffs on many countries that have taken advantage of the United States for decades." He emphasized that these measures aim to address longstanding trade imbalances and protect American industries. citeturn0news10
+
+#usPolitics #trumpSaid
+
 ### 2025-04-06 
 On February 6, 2025, President Donald Trump reiterated a right-wing conspiracy theory alleging that USAID made substantial payments to media outlets, particularly Politico, as "payoffs" for favorable coverage. He stated:
 
