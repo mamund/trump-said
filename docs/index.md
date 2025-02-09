@@ -1,6 +1,13 @@
 A collection of utterances from the 47th president.
 
-### 2025-04-07
+### 2025-02-08
+On February 8, 2025, President Donald Trump signed an executive order to cut U.S. financial assistance to South Africa, citing disapproval of its land policy and its genocide case against Israel at the International Court of Justice. He stated, 
+
+> "We will not support countries that engage in discriminatory land expropriation and take positions against our allies." ([cite](https://www.reuters.com/world/us/trump-signs-executive-order-aimed-south-africa-white-house-official-says-2025-02-07/?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
+### 2025-02-07
 On February 7, 2025, President Donald Trump announced plans to implement reciprocal tariffs on numerous countries, stating, 
 
 > "Next week, we will be announcing reciprocal tariffs on many countries that have taken advantage of the United States for decades." 
@@ -9,7 +16,7 @@ He emphasized that these measures aim to address longstanding trade imbalances a
 
 #usPolitics #trumpSaid
 
-### 2025-04-06 
+### 2025-02-06 
 On February 6, 2025, President Donald Trump reiterated a right-wing conspiracy theory alleging that USAID made substantial payments to media outlets, particularly Politico, as "payoffs" for favorable coverage. He stated:
 
 > "LOOKS LIKE BILLIONS OF DOLLARS HAVE BEEN STOLLEN AT USAID, AND OTHER AGENCIES, MUCH OF IT GOING TO THE FAKE NEWS MEDIA AS A 'PAYOFF' ..." ([cite](https://www.theguardian.com/us-news/2025/feb/06/trump-politico-usaid-subcriptions))
