@@ -3,12 +3,13 @@ A collection of utterances from the 47th president.
 ### 2025-02-10
 On February 10, 2025, President Donald Trump signed an executive order promoting the use of plastic drinking straws, reversing previous environmental policies aimed at reducing single-use plastics. At the signing, he stated, "We're going back to plastic straws," criticizing paper alternatives by saying, 
 
-> "I don't think plastic is going to affect a shark very much, as they're munching their way through the ocean." ([cite](https://www.reuters.com/world/us/trump-signs-executive-order-plastic-drinking-straws-2025-02-10/?utm_source=chatgpt.com)
+> "I don't think plastic is going to affect a shark very much, as they're munching their way through the ocean." ([cite](https://www.reuters.com/world/us/trump-signs-executive-order-plastic-drinking-straws-2025-02-10/?utm_source=chatgpt.com))
 
 #usPolitics #trumpSaid
 
 ### 2025-02-09
 On February 9, 2025, President Donald Trump expressed skepticism about the reported U.S. national debt, suggesting that fraudulent activities might have led to an overestimation of the $36 trillion figure. He stated, 
+
 > "It could be that a lot of those things don't count. In other words, that some of that stuff that we're finding is very fraudulent, therefore maybe we have less debt than we thought." ([cite](https://www.reuters.com/markets/us/trump-says-us-might-have-less-debt-than-thought-2025-02-09/?utm_source=chatgpt.com))
 
 #usPolitics #trumpSaid
