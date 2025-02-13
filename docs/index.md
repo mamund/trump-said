@@ -1,5 +1,12 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-12
+On February 12, 2025, President Donald Trump issued an executive order directing Secretary of State Marco Rubio to reform the U.S. Foreign Service to ensure "faithful and effective implementation" of his foreign policy agenda. The order emphasized that failure to implement the president's agenda could lead to professional discipline, including termination. It stated, 
+
+> "The Secretary must maintain an exceptional workforce of patriots to implement this policy effectively." ([cite](https://www.reuters.com/world/us/trump-directs-rubio-reform-us-foreign-service-2025-02-12/?utm_source=chatgpt.com)
+
+#usPolitics #trumpSaid
+
 ### 2025-02-11
 On February 11, 2025, President Donald Trump criticized the judiciary's role in hindering his administration's efforts to reform the federal government. He stated:
 
