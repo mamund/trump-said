@@ -1,5 +1,12 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-11
+On February 11, 2025, President Donald Trump criticized the judiciary's role in hindering his administration's efforts to reform the federal government. He stated:
+
+> "Billions of Dollars of FRAUD, WASTE, AND ABUSE, has already been found in the investigation of our incompetently run Government. Now certain activists and highly political judges want us to slow down, or stop. Losing ... !!!" ([cite](https://www.theguardian.com/us-news/live/2025/feb/11/trump-court-israel-hamas-musk-politics-latest-updates?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
 ### 2025-02-10
 On February 10, 2025, President Donald Trump signed an executive order promoting the use of plastic drinking straws, reversing previous environmental policies aimed at reducing single-use plastics. At the signing, he stated, "We're going back to plastic straws," criticizing paper alternatives by saying, 
 
