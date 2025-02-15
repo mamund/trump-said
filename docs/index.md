@@ -1,5 +1,14 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-14
+On February 14, 2025, President Donald Trump issued an executive order that could withdraw federal funding from schools and universities requiring COVID-19 vaccinations. He stated, 
+
+> "We will not allow the government to mandate what is injected into our children's bodies." 
+
+This action aims to fulfill his campaign promise opposing vaccine mandates. The order directs educational and health agencies to develop plans to eliminate such mandates and withdraw funds from non-compliant institutions. Critics argue it undermines student safety. 
+
+#usPolitics #trumpSaid
+
 ### 2025-02-13
 On February 13, 2025, President Donald Trump proposed reintroducing Russia into the Group of Seven (G7) nations, stating, 
 
