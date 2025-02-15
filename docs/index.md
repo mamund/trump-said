@@ -3,7 +3,7 @@ A collection of utterances from the 47th president.
 ### 2025-02-14
 On February 14, 2025, President Donald Trump issued an executive order that could withdraw federal funding from schools and universities requiring COVID-19 vaccinations. He stated, 
 
-> "We will not allow the government to mandate what is injected into our children's bodies." 
+> "We will not allow the government to mandate what is injected into our children's bodies." ([cite](https://apnews.com/article/ee3bcd198dec8e6cf61546f2bbe688bf?utm_source=chatgpt.com))
 
 This action aims to fulfill his campaign promise opposing vaccine mandates. The order directs educational and health agencies to develop plans to eliminate such mandates and withdraw funds from non-compliant institutions. Critics argue it undermines student safety. 
 
