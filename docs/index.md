@@ -1,7 +1,14 @@
-<head>
+<!--
   <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
   <script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
-</head>
+-->
+
+<script>
+  const script = document.createElement('script');
+  script.src = "/_pagefind/pagefind-ui.js";
+  script.type = "text/javascript";
+  document.head.appendChild(script);
+</script>
 
 A collection of utterances from the 47th president.
 
