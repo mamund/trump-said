@@ -1,6 +1,6 @@
 A collection of utterances from the 47th president.
 
-### 2025-02-08
+### 2025-02-18
 On February 18, 2025, President Donald Trump announced his intention to meet with Russian President Vladimir Putin before the end of the month to discuss ending the war in Ukraine. He dismissed concerns from Ukraine about being excluded from U.S.-Russia talks, stating, 
 
 > "I think I have the power to end this war." ([cite](https://www.reuters.com/world/trump-us-would-not-oppose-europe-sending-peackeepers-ukraine-2025-02-18/?utm_source=chatgpt.com))
