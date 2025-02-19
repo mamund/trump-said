@@ -1,5 +1,33 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-08
+On February 18, 2025, President Donald Trump announced his intention to meet with Russian President Vladimir Putin before the end of the month to discuss ending the war in Ukraine. He dismissed concerns from Ukraine about being excluded from U.S.-Russia talks, stating, 
+
+> "I think I have the power to end this war." ([cite](https://www.reuters.com/world/trump-us-would-not-oppose-europe-sending-peackeepers-ukraine-2025-02-18/?utm_source=chatgpt.com))
+
+Trump criticized Ukraine for not engaging in negotiations earlier, suggesting that Kyiv "could have made a deal" to prevent the conflict. 
+
+#usPolitics #trumpSaid
+
+### 2025-02-17
+On February 17, 2025, President Donald Trump announced his directive to the Department of Justice to terminate all remaining U.S. attorneys appointed during Joe Biden's presidency, stating the need to "clean house" to restore public confidence in the justice system. ([cite](https://www.reuters.com/world/us/trump-says-he-has-instructed-doj-terminate-all-remaining-biden-era-us-attorneys-2025-02-18/?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
+### 2025-02-16
+On February 16, 2025, President Donald Trump, after lifting a block on exporting heavy MK-84 bombs to Israel, stated:
+
+> "They contracted for the weapons a long time ago with the Biden administration, and then Biden wouldn't deliver the weapons. But I look at it differently. I say, 'peace through strength.'" ([site](https://www.reuters.com/world/israel-receives-shipment-heavy-bombs-cleared-by-trump-2025-02-16/?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
+### 2025-02-15
+On February 15, 2025, President Donald Trump asserted his executive authority by stating:
+
+> "He who saves his Country does not violate any Law." ([site](https://www.reuters.com/world/us/trump-if-it-saves-country-its-not-illegal-2025-02-16/?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
 ### 2025-02-14
 On February 14, 2025, President Donald Trump issued an executive order that could withdraw federal funding from schools and universities requiring COVID-19 vaccinations. He stated, 
 
