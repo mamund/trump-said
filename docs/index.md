@@ -1,5 +1,12 @@
+<head>
+  <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
+</head>
+
 A collection of utterances from the 47th president.
 
+<div id="search"></div>
+  
 ### 2025-02-18
 On February 18, 2025, President Donald Trump announced his intention to meet with Russian President Vladimir Putin before the end of the month to discuss ending the war in Ukraine. He dismissed concerns from Ukraine about being excluded from U.S.-Russia talks, stating, 
 
