@@ -3,13 +3,13 @@
   <script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
 -->
 
-<script>
+<script type="text/javascript">
   const script = document.createElement('script');
   script.src = "/_pagefind/pagefind-ui.js";
   script.type = "text/javascript";
   document.head.appendChild(script);
   
-  const link - document.createElement('link');
+  const link = document.createElement('link');
   link.href = "/_pagefind/pagefind-ui.css";
   link.rel = "stylesheet";
   document.head.appendChild(link);
