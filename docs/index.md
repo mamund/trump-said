@@ -5,12 +5,12 @@
 
 <script type="text/javascript">
   const script = document.createElement('script');
-  script.src = "http://www.mamund.social/_pagefind/pagefind-ui.js";
+  script.src = "https://www.mamund.social/_pagefind/pagefind-ui.js";
   script.type = "text/javascript";
   document.head.appendChild(script);
   
   const link = document.createElement('link');
-  link.href = "http://www.mamund.social/_pagefind/pagefind-ui.css";
+  link.href = "https://www.mamund.social/_pagefind/pagefind-ui.css";
   link.rel = "stylesheet";
   document.head.appendChild(link);
 </script>
