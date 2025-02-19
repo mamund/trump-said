@@ -17,14 +17,14 @@ On February 17, 2025, President Donald Trump announced his directive to the Depa
 ### 2025-02-16
 On February 16, 2025, President Donald Trump, after lifting a block on exporting heavy MK-84 bombs to Israel, stated:
 
-> "They contracted for the weapons a long time ago with the Biden administration, and then Biden wouldn't deliver the weapons. But I look at it differently. I say, 'peace through strength.'" ([site](https://www.reuters.com/world/israel-receives-shipment-heavy-bombs-cleared-by-trump-2025-02-16/?utm_source=chatgpt.com))
+> "They contracted for the weapons a long time ago with the Biden administration, and then Biden wouldn't deliver the weapons. But I look at it differently. I say, 'peace through strength.'" ([cite](https://www.reuters.com/world/israel-receives-shipment-heavy-bombs-cleared-by-trump-2025-02-16/?utm_source=chatgpt.com))
 
 #usPolitics #trumpSaid
 
 ### 2025-02-15
 On February 15, 2025, President Donald Trump asserted his executive authority by stating:
 
-> "He who saves his Country does not violate any Law." ([site](https://www.reuters.com/world/us/trump-if-it-saves-country-its-not-illegal-2025-02-16/?utm_source=chatgpt.com))
+> "He who saves his Country does not violate any Law." ([cite](https://www.reuters.com/world/us/trump-if-it-saves-country-its-not-illegal-2025-02-16/?utm_source=chatgpt.com))
 
 #usPolitics #trumpSaid
 
