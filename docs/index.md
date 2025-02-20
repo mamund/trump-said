@@ -1,6 +1,11 @@
 A collection of utterances from the 47th president.
 
-<div id="search"></div>
+### 2025-02-19
+On February 19, 2025, President Donald Trump declared, 
+
+> "CONGESTION PRICING IS DEAD. Manhattan, and all of New York, is SAVED. LONG LIVE THE KING!" ([cite](https://www.theguardian.com/us-news/2025/feb/19/trump-backlash-social-media-king?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
   
 ### 2025-02-18
 On February 18, 2025, President Donald Trump announced his intention to meet with Russian President Vladimir Putin before the end of the month to discuss ending the war in Ukraine. He dismissed concerns from Ukraine about being excluded from U.S.-Russia talks, stating, 
