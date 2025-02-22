@@ -1,5 +1,17 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-21
+On February 21, 2025, President Donald Trump announced his consideration of merging the U.S. Postal Service with the Commerce Department, stating, 
+
+> "We're thinking about doing that, and it'll be a form of a merger. It's just been a tremendous loser for this country." ([cite](https://www.reuters.com/world/us/trump-says-he-is-considering-merging-us-postal-service-with-commerce-department-2025-02-21/?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
+### 2025-02-20
+On February 20, 2025, President Donald Trump intensified his rhetoric against Ukrainian President Volodymyr Zelenskyy, labeling him a "dictator" and falsely claiming he had a 4% approval rating. Trump warned that Zelenskyy must act swiftly or risk losing his country. These remarks have led to a significant deterioration in U.S.-Ukraine relations. ([cite](https://www.theguardian.com/us-news/2025/feb/20/first-thing-trump-calls-zelenskyy-a-dictator-in-unparalleled-relations-rift?utm_source=chatgpt.com))
+
+#usPolitics #trumpSaid
+
 ### 2025-02-19
 On February 19, 2025, President Donald Trump declared, 
 
