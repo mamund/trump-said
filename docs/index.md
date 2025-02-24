@@ -1,5 +1,25 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-23
+On February 23, 2025, President Donald Trump announced the appointment of conservative commentator Dan Bongino as Deputy Director of the FBI, serving under newly confirmed Director Kash Patel. In his statement, President Trump praised Bongino, stating:
+
+> "Great news for Law Enforcement and American Justice! Dan Bongino, a man of incredible love and passion for our Country, will be joining the FBI as Deputy Director." ([cite](https://www.reuters.com/world/trump-backs-hard-stance-gaza-says-he-does-not-know-what-israel-will-do-2025-02-14/?utm_source=chatgpt.com))
+
+_Dan Bongino’s appointment as FBI Deputy Director would raise significant concerns due to his background, political partisanship, and lack of law enforcement leadership experience._
+
+#usPolitics #trumpSaid
+
+### 2025-02-22
+On February 22, 2025, during the Conservative Political Action Conference (CPAC) in National Harbor, Maryland, President Donald Trump delivered a speech where he stated:
+
+> "Elon is doing a great job, but I would like to see him get more aggressive. Remember, we have a country to save, but ultimately, to make greater than ever before. MAGA!" ([cite](https://www.reuters.com/world/us/trump-urges-musk-be-more-aggressive-bid-shrink-us-government-2025-02-22/?utm_source=chatgpt.com))
+
+This remark was made in the context of urging Elon Musk, head of the Department of Government Efficiency, to intensify efforts in reducing the size of the federal government.
+
+_Aggressively cutting the U.S. government workforce could weaken essential services, disrupt national security, and harm economic stability. Sudden reductions risk losing experienced personnel, slowing critical functions like healthcare, defense, and disaster response._
+
+#usPolitics #trumpSaid
+
 ### 2025-02-21
 On February 21, 2025, President Donald Trump announced his consideration of merging the U.S. Postal Service with the Commerce Department, stating, 
 
