@@ -27,6 +27,7 @@ On February 22, 2025, during the Conservative Political Action Conference (CPAC)
 
 This remark was made in the context of urging Elon Musk, head of the Department of Government Efficiency, to intensify efforts in reducing the size of the federal government.
 
+**Reality Check:**\
 _Aggressively cutting the U.S. government workforce could weaken essential services, disrupt national security, and harm economic stability. Sudden reductions risk losing experienced personnel, slowing critical functions like healthcare, defense, and disaster response._
 
 #usPolitics #trumpSaid
