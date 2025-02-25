@@ -15,6 +15,7 @@ On February 23, 2025, President Donald Trump announced the appointment of conser
 
 > "Great news for Law Enforcement and American Justice! Dan Bongino, a man of incredible love and passion for our Country, will be joining the FBI as Deputy Director." ([cite](https://www.reuters.com/world/trump-backs-hard-stance-gaza-says-he-does-not-know-what-israel-will-do-2025-02-14/?utm_source=chatgpt.com))
 
+**Reality Check:**\
 _Dan Bongino’s appointment as FBI Deputy Director would raise significant concerns due to his background, political partisanship, and lack of law enforcement leadership experience._
 
 #usPolitics #trumpSaid
