@@ -1,5 +1,16 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-24
+On February 24, 2025, during a joint press conference with French President Emmanuel Macron at the White House, President Donald Trump stated:
+
+> "We've been mistreated very badly by many countries, not just Canada and Mexico. We've been taken advantage of." ([cite](https://www.reuters.com/world/americas/trump-says-us-on-time-with-tariffs-canada-mexico-2025-02-24/?utm_source=chatgpt.com))
+
+*Reality Check:*
+
+_This claim is subjective and lacks concrete evidence. While the U.S. has trade deficits with some nations, these are often the result of complex economic factors rather than intentional mistreatment. Additionally, the U.S. maintains numerous alliances and partnerships worldwide, indicating mutual cooperation rather than widespread mistreatment._
+
+#usPolitics #trumpSaid
+
 ### 2025-02-23
 On February 23, 2025, President Donald Trump announced the appointment of conservative commentator Dan Bongino as Deputy Director of the FBI, serving under newly confirmed Director Kash Patel. In his statement, President Trump praised Bongino, stating:
 
