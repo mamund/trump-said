@@ -5,7 +5,7 @@ On February 24, 2025, during a joint press conference with French President Emma
 
 > "We've been mistreated very badly by many countries, not just Canada and Mexico. We've been taken advantage of." ([cite](https://www.reuters.com/world/americas/trump-says-us-on-time-with-tariffs-canada-mexico-2025-02-24/?utm_source=chatgpt.com))
 
-**Reality Check:**
+**Reality Check:**::
 _This claim is subjective and lacks concrete evidence. While the U.S. has trade deficits with some nations, these are often the result of complex economic factors rather than intentional mistreatment. Additionally, the U.S. maintains numerous alliances and partnerships worldwide, indicating mutual cooperation rather than widespread mistreatment._
 
 #usPolitics #trumpSaid
