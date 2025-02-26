@@ -1,5 +1,15 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-25
+On February 25, 2025, President Donald Trump threatened to impose a 25% tariff on the European Union, stating:
+
+> the bloc was "formed to screw the United States." ([cite](https://www.theguardian.com/us-news/2025/feb/25/macron-warns-trump-against-surrender-in-ukraine-first-thing?utm_source=chatgpt.com))
+
+**Reality Check**\
+_Trump’s claim is incorrect because the EU was created to foster economic cooperation and prevent war in Europe, not to target the U.S.  This rhetoric risks economic retaliation, weakens Western unity, and emboldens adversaries like China and Russia._
+
+#usPolitics #trumpSaid
+
 ### 2025-02-24
 On February 24, 2025, during a joint press conference with French President Emmanuel Macron at the White House, President Donald Trump stated:
 
