@@ -1,5 +1,18 @@
 A collection of utterances from the 47th president.
 
+### 2025-02-26 
+On February 26, 2025, President Donald Trump stated that Ukraine can:
+
+> "forget about" joining NATO
+
+He said the NATO alliance was a trigger for the ongoing conflict with Russia. 
+
+** Reality Check**\
+_Trump’s statement undermines Ukraine’s sovereignty and emboldens Russia, signaling that aggression wins concessions. It weakens NATO’s credibility, discourages allies, and risks broader instability in Europe. By denying Ukraine’s path to NATO, the U.S. loses leverage over Russia and damages Western unity, making future conflicts more likely and endangering global security._
+
+#usPolitics #trumpSaid
+
+
 ### 2025-02-25
 On February 25, 2025, President Donald Trump threatened to impose a 25% tariff on the European Union, stating:
 
