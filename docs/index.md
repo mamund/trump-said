@@ -3,7 +3,7 @@ A collection of utterances from the 47th president.
 ### 2025-02-26 
 On February 26, 2025, President Donald Trump stated that Ukraine can:
 
-> "forget about" joining NATO
+> "forget about" joining NATO. ([cite](https://www.thescottishsun.co.uk/news/14401705/zelensky-confirms-trump-meet-ukraine-russia/?utm_source=chatgpt.com))
 
 He said the NATO alliance was a trigger for the ongoing conflict with Russia. 
 
