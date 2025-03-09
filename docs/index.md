@@ -1,5 +1,91 @@
 A collection of utterances from the 47th president.
 
+### 2025-03-07
+On March 7, 2025, President Donald Trump commented on U.S. trade tensions with Canada and Mexico, stating:
+ 
+> "The political and economic tensions between the United States and its 2026 World Cup co-hosts, Canada and Mexico, will enhance the excitement of the tournament." ([cite](https://www.reuters.com/world/us/trump-says-us-trade-tensions-with-mexico-canada-will-make-world-cup-more-2025-03-08/)) 
+
+**Reality Check**\
+_Trade tensions with Canada and Mexico could harm the 2026 World Cup by increasing logistical challenges, delaying infrastructure projects, and discouraging international travel. Economic instability may reduce sponsorships, ticket sales, and overall fan experience. Instead of enhancing excitement, tensions could overshadow the tournament with political disputes and economic uncertainty._
+
+#usPolitics #trumpSaid
+
+### 2025-03-06
+On March 6, 2025, President Donald Trump announced his intention to abolish the U.S. Department of Education, stating:
+
+> "The Department of Education is a big con job. We're going to close it down." ([cite](https://www.reuters.com/world/us/trump-order-abolishment-department-education-wsj-reports-2025-03-06/))
+
+**Reality Check**\
+_Abolishing the U.S. Department of Education could significantly harm students by disrupting federal funding for low-income and special needs programs, weakening civil rights protections, and complicating student loan administration. This upheaval risks increasing educational inequities and reducing access to essential resources for vulnerable populations._
+
+#usPolitics #trumpSaid
+
+### 2025-03-05
+On March 5, 2025, President Donald Trump declared:
+
+> "We are slashing the federal workforce like never before." ([cite](https://www.theguardian.com/us-news/2025/mar/04/donald-trump-congress-address-speech))
+
+**Reality Check**\
+_Drastically reducing the federal workforce can lead to diminished public services, delayed tax refunds, compromised national security, and economic downturns in communities reliant on federal employment. Such cuts may also hinder critical functions like infrastructure maintenance and public health initiatives, ultimately undermining governmental efficiency and public trust._
+
+#usPolitics #trumpSaid
+
+### 2025-03-04
+On March 4, 2025, President Donald Trump issued a stern warning to Hamas militants:
+
+> "Release all hostages immediately. This is your last warning. Leave Gaza now while you still have a chance, or there will be hell to pay later." ([cite](https://www.reuters.com/world/middle-east/trump-urges-hamas-release-hostages-gaza-what-he-calls-last-warning-2025-03-05/?utm_source=chatgpt.com))
+
+**Reality Check**\
+_Issuing public warnings to Hamas can be counterproductive, as it may harden their stance, endanger hostages, and complicate delicate negotiations. Such ultimatums risk escalating tensions, potentially leading to increased violence and undermining ongoing diplomatic efforts aimed at securing peaceful resolutions._
+
+#usPolitics #trumpSaid
+
+### 2025-03-03
+On March 3, 2025, President Donald Trump made a statement reflecting his "Make America Great Again" agenda:
+
+> "We will build a 'Golden Dome' missile shield over our country." ([cite](https://www.reuters.com/world/us/takeaways-trumps-address-congress-2025-03-05/))
+
+**Reality Check**\ 
+_Building a "Golden Dome" missile shield is a bad idea because it would be astronomically expensive, technologically unproven, and could escalate global arms races. It might give a false sense of security, leading to riskier policies. Adversaries could develop countermeasures, making it obsolete before completion, while diverting funds from urgent domestic needs._
+
+#usPolitics #trumpSaid
+
+### 2025-03-02
+On March 2, 2025, President Donald Trump announced the inclusion of major cryptocurrencies in a new U.S. strategic reserve, stating:
+
+> "And, obviously, BTC and ETH, as other valuable Cryptocurrencies, will be at the heart of the Reserve." ([cite](https://www.reuters.com/world/us/trump-says-cryptocurrency-strategic-reserve-includes-xrp-sol-ada-2025-03-02/))
+
+**Reality Check**\ 
+_Creating a strategic reserve of cryptocurrencies is risky due to extreme volatility, security vulnerabilities, and lack of centralized control. Unlike traditional reserves (gold, oil), crypto can crash overnight, be manipulated by whales, or face regulatory crackdowns. It also undermines monetary stability, invites cyber threats, and risks taxpayer losses if markets collapse._
+
+#usPolitics #trumpSaid
+
+### 2025-03-01
+In his March 1, 2025, address to Congress, President Donald Trump made a statement that resonated strongly with his "Make America Great Again" (MAGA) supporters:
+
+> "We will keep you safe. We will make you rich. And together we will take Greenland to heights like you have never thought possible before." ([cite]())
+
+**Reality Check**\
+_Saying "we will take Greenland" is a bad idea because it disregards Greenland’s sovereignty, alienates Denmark (its governing nation), and provokes international backlash. It undermines diplomacy, risks economic and military tensions, and ignores Greenlanders' rights. Historically, such statements strain alliances and fuel perceptions of American imperialism, making cooperation with allies harder._
+
+#usPolitics #trumpSaid
+
+### 2025-02-28
+On February 28, 2025, during a heated Oval Office meeting with Ukrainian President Volodymyr Zelenskyy, President Donald Trump accused Zelenskyy of "gambling with World War Three" and told him to return "when he is ready for peace." ([cite](https://www.theguardian.com/us-news/2025/mar/03/trump-update-zelenskyy-gaza))
+
+**Reality Check**\
+_Accusing Zelenskyy of "gambling with World War Three" undermines U.S. support for Ukraine, emboldens Russia, and weakens NATO unity. It shifts blame from Putin's aggression to Ukraine's defense, damaging diplomatic credibility. Such rhetoric risks alienating allies, destabilizing negotiations, and signaling to adversaries that the U.S. may abandon key commitments in global security._
+
+#usPolitics #trumpSaid
+
+### 2025-02-27
+On February 27, 2025, during a joint press conference with British Prime Minister Keir Starmer, President Donald Trump declared: "We are going to impose 25% tariffs on Canada and Mexico starting March 4, alongside a new, additional 10% tariff on China." ([cite](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_%282025_Q1%29)) 
+
+**Reality Check**\
+_Imposing 25% tariffs on Canada and Mexico, plus a 10% tariff on China, risks higher consumer prices, trade retaliation, and economic instability. It strains key trade partnerships, disrupts supply chains, and hurts U.S. exporters facing counter-tariffs. Long-term, it may weaken manufacturing competitiveness and fuel inflation, ultimately burdening American businesses and consumers._
+
+#usPolitics #trumpSaid
+
 ### 2025-02-26 
 On February 26, 2025, President Donald Trump stated that Ukraine can:
 
