@@ -1,5 +1,25 @@
 A collection of utterances from the 47th president.
 
+### 2025-03-09
+On March 9, 2025, President Donald Trump addressed concerns about a potential government shutdown, stating:
+
+> "It could happen. It shouldn't have happened, and it probably won't. I think the CR is going to get passed. We'll see." (cite](https://www.reuters.com/world/us/trump-says-government-shutdown-is-possible-expects-avert-it-2025-03-10/)) 
+
+**Reality Check**\
+_A government shutdown disrupts essential services, delays federal paychecks, and weakens the economy. National parks close, food assistance stalls, and military personnel work without pay. It undermines public trust, harms small businesses reliant on federal contracts, and can lower economic growth. The longer it lasts, the greater the damage._
+
+#usPolitics #trumpSaid
+
+### 2025-03-08
+On March 7, 2025, President Donald Trump addressed reports of a disagreement between Secretary of State Marco Rubio and White House adviser Elon Musk during a Cabinet meeting. When questioned about the alleged clash, Trump responded:
+
+> "No clash, I was there, you're just a troublemaker. Elon gets along great with Marco and they're both doing a fantastic job." ([cite](https://www.reuters.com/world/us/musk-rubio-clash-cabinet-meeting-new-york-times-says-2025-03-07/))
+
+**Reality Check**\
+_This clash stems from Musk's aggressive cost-cutting measures, including attempts to dismantle USAID, which falls under Rubio's purview. Elon Musk and Secretary of State Marco Rubio's tensions escalated during a White House meeting, where Musk criticized Rubio for insufficient staff reductions. Rubio retorted, highlighting 1,500 early retirements in his department._
+
+#usPolitics #trumpSaid
+
 ### 2025-03-07
 On March 7, 2025, President Donald Trump commented on U.S. trade tensions with Canada and Mexico, stating:
  
