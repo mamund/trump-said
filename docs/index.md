@@ -3,7 +3,7 @@ A collection of utterances from the 47th president.
 ### 2025-03-09
 On March 9, 2025, President Donald Trump addressed concerns about a potential government shutdown, stating:
 
-> "It could happen. It shouldn't have happened, and it probably won't. I think the CR is going to get passed. We'll see." (cite](https://www.reuters.com/world/us/trump-says-government-shutdown-is-possible-expects-avert-it-2025-03-10/)) 
+> "It could happen. It shouldn't have happened, and it probably won't. I think the CR is going to get passed. We'll see." ([cite](https://www.reuters.com/world/us/trump-says-government-shutdown-is-possible-expects-avert-it-2025-03-10/)) 
 
 **Reality Check**\
 _A government shutdown disrupts essential services, delays federal paychecks, and weakens the economy. National parks close, food assistance stalls, and military personnel work without pay. It undermines public trust, harms small businesses reliant on federal contracts, and can lower economic growth. The longer it lasts, the greater the damage._
@@ -21,7 +21,7 @@ _This clash stems from Musk's aggressive cost-cutting measures, including attemp
 #usPolitics #trumpSaid
 
 ### 2025-03-07
-On March 7, 2025, President Donald Trump commented on U.S. trade tensions with Canada and Mexico, stating:
+On March 7, 2025, President Donald Trump commented on U.S. trade tensions with Canada and Mexico, stating:
  
 > "The political and economic tensions between the United States and its 2026 World Cup co-hosts, Canada and Mexico, will enhance the excitement of the tournament." ([cite](https://www.reuters.com/world/us/trump-says-us-trade-tensions-with-mexico-canada-will-make-world-cup-more-2025-03-08/)) 
 
@@ -31,7 +31,7 @@ _Trade tensions with Canada and Mexico could harm the 2026 World Cup by increasi
 #usPolitics #trumpSaid
 
 ### 2025-03-06
-On March 6, 2025, President Donald Trump announced his intention to abolish the U.S. Department of Education, stating:
+On March 6, 2025, President Donald Trump announced his intention to abolish the U.S. Department of Education, stating:
 
 > "The Department of Education is a big con job. We're going to close it down." ([cite](https://www.reuters.com/world/us/trump-order-abolishment-department-education-wsj-reports-2025-03-06/))
 
