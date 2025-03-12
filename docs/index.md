@@ -1,5 +1,15 @@
 A collection of utterances from the 47th president.
 
+### 2025-03-11
+On March 11, 2025, President Donald Trump addressed recent protests targeting Tesla dealerships, stating: 
+
+> "Let me tell you, you do it to Tesla, and you do it to any company, we're going to catch you, and ... you're going to go through hell." ([cite](https://www.theguardian.com/us-news/2025/mar/11/trump-tesla-boycott-musk?utm_source=chatgpt.com))
+
+**Reality Check**\
+_​President Trump's promotion of Tesla cars on White House grounds raises ethical concerns about endorsing a private company using public resources. It also risks politicizing Tesla's brand, potentially alienating customers who disagree with the administration's policies. Additionally, this act blurs the line between government and private enterprise, setting a controversial precedent._
+
+#usPolitics #trumpSaid
+
 ### 2025-03-10
 On March 10, 2025, President Donald Trump commented on the arrest of Palestinian activist Mahmoud Khalil, stating:
 
