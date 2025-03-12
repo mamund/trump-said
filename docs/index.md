@@ -11,7 +11,7 @@ _​President Trump's promotion of Tesla cars on White House grounds raises ethi
 #usPolitics #trumpSaid
 
 ### 2025-03-10
-On March 10, 2025, President Donald Trump commented on the arrest of Palestinian activist Mahmoud Khalil, stating:
+On March 10, 2025, President Donald Trump commented on the arrest of Palestinian activist Mahmoud Khalil, stating:
 
 > "This is the first arrest of many to come. We know there are more students at Columbia and other Universities across the Country who have engaged in pro-terrorist, anti-Semitic, anti-American activity, and the Trump Administration will not ... ." ([cite](https://www.theguardian.com/us-news/live/2025/mar/10/donald-trump-tariffs-republicans-canada-china-us-politics-latest-live-news))
 
