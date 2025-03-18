@@ -1,7 +1,7 @@
 A collection of utterances from the 47th president.
 
 ### 2025-03-17
-On March 17, 2025, President Donald Trump addressed escalating tensions with Yemen's Houthi rebels, stating:
+On March 17, 2025, President Donald Trump addressed escalating tensions with Yemen's Houthi rebels, stating:
 
 > "Every shot fired by the Houthis will be looked upon, from this point forward, as being a shot fired from the weapons and leadership of IRAN, and IRAN will be held responsible, and suffer the consequences, and those consequences will be dire!" ([cite](https://www.reuters.com/world/middle-east/us-piles-pressure-yemens-houthis-with-new-airstrikes-2025-03-17/))
 
@@ -11,7 +11,7 @@ _​Threatening Iran can escalate regional tensions, potentially leading to mili
 #usPolitics #trumpSaid
 
 ### 2025-03-16
-On March 16, 2025, President Donald Trump, during his first visit as chair of the Kennedy Center, criticized the state of its facilities and proposed hosting the annual Kennedy Center Honors himself, declaring:
+On March 16, 2025, President Donald Trump, during his first visit as chair of the Kennedy Center, criticized the state of its facilities and proposed hosting the annual Kennedy Center Honors himself, declaring:
 
 > "I am the king of ratings." ([cite](https://www.theguardian.com/us-news/2025/mar/18/trump-kennedy-center-awards))
 
