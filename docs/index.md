@@ -1,5 +1,61 @@
 A collection of utterances from the 47th president.
 
+### 2025-03-17
+On March 17, 2025, President Donald Trump addressed escalating tensions with Yemen's Houthi rebels, stating:
+
+> "Every shot fired by the Houthis will be looked upon, from this point forward, as being a shot fired from the weapons and leadership of IRAN, and IRAN will be held responsible, and suffer the consequences, and those consequences will be dire!" ([cite](https://www.reuters.com/world/middle-east/us-piles-pressure-yemens-houthis-with-new-airstrikes-2025-03-17/))
+
+**Reality Check**\
+_​Threatening Iran can escalate regional tensions, potentially leading to military conflict, disrupting global oil supplies, and destabilizing the Middle East. Such actions may also strain diplomatic relations with allies and embolden hardline factions within Iran, hindering prospects for peaceful resolution and international cooperation._
+
+#usPolitics #trumpSaid
+
+### 2025-03-16
+On March 16, 2025, President Donald Trump, during his first visit as chair of the Kennedy Center, criticized the state of its facilities and proposed hosting the annual Kennedy Center Honors himself, declaring:
+
+> "I am the king of ratings." ([cite](https://www.theguardian.com/us-news/2025/mar/18/trump-kennedy-center-awards))
+
+**Reality Check**\
+_President Trump's self-appointment as chairman of the Kennedy Center raises concerns about politicizing a historically nonpartisan cultural institution. His dismissal of existing board members and installation of loyalists may undermine the center's artistic integrity, leading to cancellations of performances like "Hamilton" and artists withdrawing in protest. Such actions risk compromising the center's mission to promote diverse arts._
+
+#usPolitics #trumpSaid
+
+
+### 2025-03-15
+On March 15, 2025, President Donald Trump invoked the Alien Enemies Act of 1798 to authorize the deportation of alleged members of the Venezuelan gang Tren de Aragua, labeling them as "alien enemies." This unprecedented move aimed to expedite their removal without standard legal proceedings. However, a federal judge promptly issued a temporary restraining order, blocking the administration's actions and questioning the applicability of the 18th-century law in this context. ([cite](https://www.reuters.com/legal/trump-faces-court-deadline-explain-deportation-venezuelans-2025-03-18/)) 
+
+**Reality Check**\
+_Invoking an 18th-century law to deport individuals without trial undermines due process and legal protections, leading to potential wrongful deportations and human rights violations. Such actions erode public trust in the justice system and may result in international condemnation._
+
+#usPolitics #trumpSaid
+
+
+### 2025-03-14
+On March 14, 2025, President Donald Trump delivered a speech at the U.S. Department of Justice, where he criticized past legal actions against him and vowed to seek "full and complete accountability" for those he claimed had wronged him. This address marked an unprecedented moment, with a sitting president using the Justice Department's platform to air personal grievances and challenge its independence. ([cite](https://www.theguardian.com/us-news/2025/mar/14/trump-justice-department-speech-criminal-cases?utm_source=chatgpt.com))
+
+**Reality Check**\
+_Using the Department of Justice (DOJ) to target political opponents undermines the rule of law and threatens democratic principles. Such actions can lead to the weaponization of legal institutions for personal or political gain, eroding public trust in impartial justice. This misuse of power jeopardizes the separation of powers, a fundamental safeguard against authoritarianism._
+
+#usPolitics #trumpSaid
+
+### 2025-03-13
+On March 13, 2025, President Donald Trump threatened to impose a 200% tariff on European wine, cognac, and other alcoholic beverages if the European Union did not remove its 50% tariff on American whiskey. This escalation in the trade dispute raised concerns about potential economic repercussions on both sides of the Atlantic. ([cite](https://www.reuters.com/markets/trump-threatens-200-wine-tariff-if-eu-does-not-remove-whiskey-tariff-2025-03-13/))
+
+**Reality Check**\
+_Imposing a 200% tariff on European Union goods could harm the U.S. economy by escalating trade tensions, increasing consumer prices, and disrupting industries reliant on EU imports. Such tariffs may lead to retaliatory measures, further straining international relations and potentially reducing U.S. exports. This approach risks economic instability and undermines global trade partnerships._
+
+#usPolitics #trumpSaid
+
+### 2025-03-12
+On March 12, 2025, President Donald Trump faced widespread condemnation for using the term "Palestinian" as a slur against Senate Majority Leader Chuck Schumer. During an Oval Office meeting with Irish Taoiseach Micheál Martin, Trump remarked:
+
+ > "Schumer is a Palestinian. As far as I'm concerned, he's become a Palestinian. He used to be Jewish. He's not Jewish any more. He's a Palestinian." ([cite]https://www.theguardian.com/us-news/2025/mar/12/trump-chuck-schumer-palestinian-slur))
+
+**Reality Check**\
+_President Trump's remark labeling Senator Schumer a "Palestinian" was widely condemned as offensive. Using "Palestinian" as a slur dehumanizes Palestinians and perpetuates harmful stereotypes. Such language fosters division and undermines efforts toward mutual respect and understanding._
+
+#usPolitics #trumpSaid
+
 ### 2025-03-11
 On March 11, 2025, President Donald Trump addressed recent protests targeting Tesla dealerships, stating: 
 
