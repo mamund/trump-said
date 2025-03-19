@@ -1,5 +1,15 @@
 A collection of utterances from the 47th president.
 
+### 2025-03-18
+On March 18, 2025, President Donald Trump called for the impeachment of Chief U.S. District Judge James Boasberg, who had issued a temporary restraining order halting deportations under the Alien Enemies Act. Trump referred to Boasberg as a "Radical Left Lunatic of a Judge" and a "troublemaker," stating:
+
+> "This judge, like many of the Crooked Judges I am forced to appear before, should be IMPEACHED!!!" ()[cite](https://www.theguardian.com/us-news/2025/mar/19/trump-court-order-immigration-constitutional-crisis))
+
+**Reality Check**\
+_A president calling for the impeachment of judges they dislike undermines judicial independence, threatening the separation of powers. It turns the judiciary into a political tool, eroding trust in fair rulings. Impeachment is meant for misconduct, not disagreement. Weaponizing it weakens democracy, enabling authoritarianism and compromising legal stability for personal or political gain._
+
+#usPolitics #trumpSaid
+
 ### 2025-03-17
 On March 17, 2025, President Donald Trump addressed escalating tensions with Yemen's Houthi rebels, stating:
 
