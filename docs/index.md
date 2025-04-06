@@ -1,5 +1,39 @@
 A collection of utterances from the 47th president.
 
+## 2025-03-21
+On March 21, 2025, President Donald Trump suggested that individuals charged with attacking Tesla facilities could serve their sentences in foreign prisons, stating:
+
+> "Perhaps they would prefer some time in the lovely prisons of El Salvador." ([cite](https://www.politico.com/news/2025/03/21/trump-foreign-prison-threats-civil-rights-groups-027162?utm_source=chatgpt.com)
+
+**Reality Check**\
+Threatening protesters with deportation chills free speech and undermines democratic rights. It weaponizes government power to silence dissent, targeting political opponents rather than upholding justice. Such threats erode civil liberties, set dangerous authoritarian precedents, and violate constitutional protections—especially when aimed at lawful residents or citizens exercising their right to protest.
+
+#usPolitics #trumpSaid
+
+## 2025-03-20
+On March 20, 2025, President Donald Trump signed an executive order directing the dismantling of the U.S. Department of Education, stating:
+
+> "Education should be handled at the local level by parents and teachers, not by bureaucrats in Washington." ([cite](https://nypost.com/video/what-to-know-about-the-recent-student-deportations-and-ice-raids-under-trump/)
+
+**Reality Check**\
+Closing the Department of Education risks deepening inequality, as states with fewer resources may struggle to provide quality education. It removes federal oversight that protects students' civil rights and ensures nationwide standards. Without it, education becomes uneven, fragmented, and vulnerable to political agendas—harming disadvantaged communities and weakening the country’s long-term competitiveness and cohesion.
+
+#usPolitics #trumpSaid
+
+### 2025-03-19
+On March 19, 2025, President Donald Trump made a statement during a press briefing that attracted international attention:
+
+> "We have the power to take back what is rightfully ours, and that includes the Panama Canal."
+
+This remark was reported by *The Guardian* in their coverage of the event. ([cite]https://www.theguardian.com/us-news/2025/jan/27/trump-first-100-days-guide?utm_source=chatgpt.com)
+
+**Reality Check**\
+The statement sparked significant backlash from Panamanian officials and citizens, who viewed it as a threat to their national sovereignty. President José Raúl Mulino of Panama responded firmly, stating that Panama "will not give in to Trump’s canal threats."
+
+The international community also reacted, with various foreign news outlets highlighting the potential implications of Trump's assertion on U.S.-Panama relations and regional stability. 
+
+#usPoltics #trumpSaid
+
 ### 2025-03-18
 On March 18, 2025, President Donald Trump called for the impeachment of Chief U.S. District Judge James Boasberg, who had issued a temporary restraining order halting deportations under the Alien Enemies Act. Trump referred to Boasberg as a "Radical Left Lunatic of a Judge" and a "troublemaker," stating:
 
