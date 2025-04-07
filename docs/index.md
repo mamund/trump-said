@@ -1,5 +1,75 @@
 A collection of utterances from the 47th president.
 
+## 2025-04-06
+On April 6, 2025, aboard Air Force One, President Donald Trump addressed concerns about the stock market's reaction to newly imposed tariffs, stating:
+
+> "They are coming to the table. They want to talk but there's no talk unless they pay us a lot of money on a yearly basis." ([cite](https://www.theguardian.com/us-news/2025/apr/07/president-trump-administration-news-updates-today?utm_source=chatgpt.com))
+
+These remarks reflect his administration's approach to trade discussions and economic strategy. 
+ 
+**Reality Check**\
+Using tariffs to extract concessions risks sparking trade wars, harming U.S. businesses and consumers through higher prices and supply chain disruptions. It undermines international trust, destabilizes markets, and can provoke retaliation. Such tactics treat allies as adversaries, weakening long-term economic cooperation and global standing.
+
+#usPolitics #trumpSaid
+
+## 2025-04-05
+On April 5, 2025, President Donald Trump addressed concerns about the stock market downturn following his administration's sweeping tariffs. He stated:
+
+> "I think it's going very well. It was an operation like when a patient gets operated on and it's a big thing. I said this would be exactly the way it is... We've never seen anything like it. The markets are going to boom. The stock is going to boom. The country is going to boom." ([cite](https://www.theguardian.com/us-news/live/2025/apr/03/donald-trump-tariffs-world-trade-republicans-join-democrats-block-canada-tariffs-us-politics-latest-news-updates?utm_source=chatgpt.com))
+
+This statement was made despite the markets experiencing significant declines, with major indices seeing their worst one-day falls in five years.
+
+**Reality Check**\
+Misrepresenting a plummeting stock market misleads the public and investors, erodes trust in leadership, and can worsen financial instability. It delays necessary responses, encourages risky behavior, and undermines confidence in government transparency—potentially deepening economic harm. Credibility matters during crises.
+
+#usPolitics #trumpSaid
+
+## 2025-04-04
+On April 4, 2025, President Donald Trump announced a 75-day delay in enforcing the U.S. ban on TikTok, stating:
+
+> "Tremendous progress"
+
+had been made in negotiations with China to keep the app operational in the U.S. ([cite](https://people.com/donald-trump-delays-tiktok-ban-75-more-days-11709407?utm_source=chatgpt.com))
+
+**Reality Check**\
+Trump involving the U.S. in TikTok ownership politicizes tech regulation and sets a precedent for government interference in private business deals. It risks retaliation, damages investor confidence, and blurs lines between national security and economic nationalism. Such actions strain international relations and can erode trust in U.S. commitment to free markets and rule of law.
+
+#usPolitics #trumpSaid
+
+## 2025-04-03
+On April 3, 2025, President Donald Trump invited Salvadoran President Nayib Bukele to the White House, stating:
+
+> "Your support of my efforts to combat illegal immigration is greatly appreciated." ([cite](#))
+
+This invitation followed collaboration between the U.S. and El Salvador in detaining suspected gang members deported from the United States.
+ 
+**Reality Check**\
+Inviting Bukele, criticized for authoritarian tactics and weakening democratic institutions, signals U.S. approval of illiberal governance. It undermines America’s credibility on human rights and democracy, emboldens autocrats, and damages regional diplomacy. Aligning with strongmen for political gain risks long-term instability and erodes the moral authority of U.S. foreign policy.
+
+#usPolitics #trumpSaid
+
+## 2025-04-02
+On April 2, 2025, President Donald Trump announced the implementation of broad global tariffs, stating:
+
+`> "Foreign leaders have stolen our jobs, foreign cheaters have ransacked our factories, and foreign scavengers have torn apart our once-beautiful American Dream." ([cite](https://www.ndtv.com/world-news/a-little-tough-love-top-quotes-from-donald-trump-tariff-talk-8073946?utm_source=chatgpt.com))
+
+This declaration was part of his "Liberation Day" speech, introducing a minimum 10% tariff on all imports, with higher rates for certain countries.
+ 
+**Reality Check**\
+Calling foreign countries "cheaters" and "scavengers" fuels xenophobia, undermines diplomacy, and inflames global tensions. It reduces complex trade issues to hostile rhetoric, damaging alliances and trust. Such language isolates the U.S., invites retaliation, and distracts from policy solutions—replacing cooperation with blame and risking economic and geopolitical fallout for political theater.
+
+#usPolitics #trumpSaid
+
+## 2025-04-01
+On April 1, 2025, President Donald Trump addressed concerns about the impact of newly announced tariffs on global markets, stating:
+
+> "Sometimes you have to take medicine to fix something." ([cite](https://www.reuters.com/world/more-than-50-countries-have-contacted-white-house-start-trade-talks-trump-2025-04-06/?utm_source=chatgpt.com))
+
+**Reality Check**\
+Calling self-inflicted economic harm “medicine” masks responsibility and misleads the public. It frames avoidable damage as a cure, justifying harmful policies while ignoring real consequences—like job losses and higher prices. This rhetoric undermines accountability, distorts debate, and treats economic pain as virtue, rather than a policy failure needing honest reassessment.
+
+#usPolitics #trumpSaid
+
 ## 2025-03-31
 On March 31, 2025, President Donald Trump, when asked about his plans after his current term, stated:
 
