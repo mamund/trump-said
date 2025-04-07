@@ -1,9 +1,115 @@
 A collection of utterances from the 47th president.
 
+## 2025-03-31
+On March 31, 2025, President Donald Trump, when asked about his plans after his current term, stated:
+
+> "There are methods which you could do it." ([site](https://www.theguardian.com/us-news/live/2025/mar/31/donald-trump-third-term-putin-russia-iran-tariffs-us-politics-live-news?page=with%3Ablock-67eab7418f08e6b4b7c07b8c&utm_source=chatgpt.com))
+
+This remark, suggesting the possibility of securing a third term despite constitutional limits, drew criticism from both parties.
+
+**Reality Check**\
+Trump suggesting a third term defies the U.S. Constitution, which limits presidents to two terms. It signals authoritarian ambition, undermines democratic norms, and erodes public trust in peaceful transitions of power. Such rhetoric threatens the rule of law and sets a dangerous precedent that could destabilize American democracy.
+
+#usPoltics #trumpSaid
+
+## 2025-03-30
+On March 30, 2025, President Donald Trump issued a stern warning to Iran regarding its nuclear program, stating:
+
+> "If Iran does not agree to our terms, there will be bombing like never seen before." ([cite](https://en.wikipedia.org/wiki/Donald_Trump%27s_letter_to_Ali_Khamenei?utm_source=chatgpt.com))
+
+This statement followed Iran's rejection of a U.S. offer to negotiate a new nuclear deal, escalating tensions between the two nations.
+
+**Reality Check**\
+Trump threatening Iran with bombing escalates tensions, risks war, and undermines diplomacy. It provokes retaliation, endangers civilians, and destabilizes the region. Such rhetoric erodes global trust in U.S. leadership, alienates allies, and weakens nonproliferation efforts—replacing negotiation with intimidation and increasing the chance of catastrophic conflict through miscalculation or provocation.
+
+#usPoltics #trumpSaid
+
+## 2025-03-29
+On March 29, 2025, President Donald Trump ordered French companies with U.S. government contracts to comply with his executive order banning diversity, equity, and inclusion programs, stating:
+
+> "French companies must align with American anti-discrimination laws." ([cite](https://www.reuters.com/world/us-warns-french-companies-they-must-comply-with-trumps-diversity-ban-2025-03-29/?utm_source=chatgpt.com))
+
+**Reality Check**\
+A president imposing his culture war agenda on other nations politicizes diplomacy and alienates allies. It exports division, disregards other countries' values, and undermines global cooperation. Such actions damage U.S. credibility, reduce soft power, and risk retaliatory backlash—turning shared interests into ideological battlegrounds instead of building respectful, strategic partnerships.
+
+#usPoltics #trumpSaid
+
+## 2025-03-28
+On March 28, 2025, President Donald Trump addressed the ongoing trade tensions with Canada, stating:
+
+> "Many countries have taken advantage of us, but not Canada... I think things will work out very well between Canada and the United States." ([cite](https://en.wikipedia.org/wiki/Timeline_of_the_2025_United_States_trade_war_with_Canada?utm_source=chatgpt.com))
+
+This remark followed a phone call with Canadian Prime Minister Mark Carney, during which both leaders described their conversation as productive despite the looming implementation of U.S. tariffs on Canadian automobiles. 
+
+**Reality Check**\
+Reversing stance on Canada post-call suggests impulsive diplomacy, undermining U.S. credibility. It indicates decisions swayed by brief interactions rather than consistent policy, weakening negotiation positions. Such unpredictability can erode trust with allies, destabilize trade relations, and signal unreliability in international commitments, potentially harming economic and strategic partnerships.
+
+#usPoltics #trumpSaid
+
+## 2025-03-27
+On March 27, 2025, President Donald Trump announced the withdrawal of Elise Stefanik's nomination for U.S. Ambassador to the United Nations. This decision was influenced by the Republican Party's narrow majority in the House of Representatives and concerns over maintaining that majority. The move reflects strategic considerations to avoid a special election in her district, which could potentially jeopardize the party's slim control. ([cite](https://www.theguardian.com/us-news/2025/jan/27/trump-first-100-days-guide?utm_source=chatgpt.com))
+
+**Reality Check**\
+Withdrawing Stefanik’s appointment to avoid a special election signals political instability and fear of losing a slim majority. It prioritizes party control over qualified leadership in key diplomatic roles. This undermines global credibility, weakens U.S. representation at the UN, and suggests governance driven by short-term political survival rather than strategic, long-term planning.
+
+#usPoltics #trumpSaid
+
+## 2025-03-26
+On March 26, 2025, President Donald Trump signed an executive order imposing a 25% tariff on imported automobiles and certain automobile parts, stating:
+
+> "We will no longer tolerate unfair trade practices that threaten our automotive industry. These tariffs are necessary to protect American jobs and national security." ([cite](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-adjusts-imports-of-automobiles-and-automobile-parts-into-the-united-states/?utm_source=chatgpt.com))
+
+**Reality Check**\
+A 25% tariff on imported cars raises prices for consumers, limits choices, and risks retaliation from trade partners. It disrupts global supply chains, hurts automakers relying on foreign parts, and can trigger job losses in related industries. Rather than protecting the economy, it may spark inflation and trade wars, damaging long-term U.S. competitiveness.
+
+#usPoltics #trumpSaid
+
+## 2025-03-25
+On March 25, 2025, President Donald Trump announced plans to "reclaim" the Panama Canal, stating:
+
+> "My administration will be reclaiming the Panama Canal." ([cite](https://en.wikipedia.org/wiki/Second_presidency_of_Donald_Trump?utm_source=chatgpt.com))
+
+This declaration followed demands for Panama to return control of the canal to the United States, citing "excessive rates" charged for American passage. The U.S. previously controlled the Panama Canal Zone from 1903 until 1999. Defense Secretary Pete Hegseth instructed the administration to present "credible military options" to ensure U.S. access, raising international concerns.
+ 
+**Reality Check**\
+Reclaiming the Panama Canal would violate international treaties, damage U.S.-Latin American relations, and provoke global backlash. It signals imperial overreach, undermines sovereignty, and risks military conflict. Such a move destabilizes regional diplomacy, threatens trade routes, and erodes trust in U.S. commitments—projecting aggression instead of partnership in global affairs.
+
+#usPoltics #trumpSaid
+
+## 2025-03-24
+On March 24, 2025, President Donald Trump addressed the issue of student protests on college campuses, stating:
+
+> "We are going to step up deportations of foreign students who engage in anti-Israel demonstrations. If they want to protest against our allies, they can do it elsewhere." ([cite](#))
+
+**Reality Check**\
+Deporting foreign students for protesting punishes free expression and undermines democratic values. It chills speech, violates human rights norms, and weaponizes immigration law for political control. Such actions damage academic freedom, erode trust in institutions, and risk international backlash, making the U.S. appear intolerant and authoritarian rather than a defender of liberty.
+
+#usPoltics #trumpSaid
+
+## 2025-03-23
+On March 23, 2025, President Donald Trump reiterated his interest in acquiring Greenland, stating:
+
+> "I think Greenland is going to be something that maybe is in our future." ([cite](https://www.reuters.com/world/wife-us-vice-president-vance-make-high-profile-visit-greenland-2025-03-23/?utm_source=chatgpt.com))
+
+**Reality Check**\
+Suggesting the U.S. take over Greenland disrespects Danish sovereignty and ignores the self-governance of Greenland’s people. It risks diplomatic fallout, fuels imperialist narratives, and undermines international norms. Such comments, especially without consent or context, damage credibility, provoke allies, and reduce complex geopolitical relationships to reckless soundbites.
+
+#usPoltics #trumpSaid
+
+## 2025-03-22
+On March 22, 2025, President Donald Trump addressed the ongoing trade tensions and the potential impact of new tariffs on consumer prices, stating:
+
+> "I couldn't care less about higher prices." ([cite](https://www.wsj.com/business/autos/auto-stocks-fall-after-trump-says-he-couldnt-care-less-about-higher-prices-21cd7c16?utm_source=chatgpt.com))
+
+**Reality Check**\
+A president saying they "couldn’t care less" about higher prices shows disregard for citizens struggling with inflation. It signals indifference to economic hardship, especially for low- and middle-income families. Leaders are expected to protect public welfare—ignoring rising costs undermines trust, accountability, and responsible governance, and can worsen inequality and public frustration.
+
+#usPolitics #trumpSaid
+
 ## 2025-03-21
 On March 21, 2025, President Donald Trump suggested that individuals charged with attacking Tesla facilities could serve their sentences in foreign prisons, stating:
 
-> "Perhaps they would prefer some time in the lovely prisons of El Salvador." ([cite](https://www.politico.com/news/2025/03/21/trump-foreign-prison-threats-civil-rights-groups-027162?utm_source=chatgpt.com)
+> "Perhaps they would prefer some time in the lovely prisons of El Salvador." ([cite](https://www.politico.com/news/2025/03/21/trump-foreign-prison-threats-civil-rights-groups-027162?utm_source=chatgpt.com))
 
 **Reality Check**\
 Threatening protesters with deportation chills free speech and undermines democratic rights. It weaponizes government power to silence dissent, targeting political opponents rather than upholding justice. Such threats erode civil liberties, set dangerous authoritarian precedents, and violate constitutional protections—especially when aimed at lawful residents or citizens exercising their right to protest.
@@ -13,7 +119,7 @@ Threatening protesters with deportation chills free speech and undermines democr
 ## 2025-03-20
 On March 20, 2025, President Donald Trump signed an executive order directing the dismantling of the U.S. Department of Education, stating:
 
-> "Education should be handled at the local level by parents and teachers, not by bureaucrats in Washington." ([cite](https://nypost.com/video/what-to-know-about-the-recent-student-deportations-and-ice-raids-under-trump/)
+> "Education should be handled at the local level by parents and teachers, not by bureaucrats in Washington." ([cite](https://nypost.com/video/what-to-know-about-the-recent-student-deportations-and-ice-raids-under-trump/))
 
 **Reality Check**\
 Closing the Department of Education risks deepening inequality, as states with fewer resources may struggle to provide quality education. It removes federal oversight that protects students' civil rights and ensures nationwide standards. Without it, education becomes uneven, fragmented, and vulnerable to political agendas—harming disadvantaged communities and weakening the country’s long-term competitiveness and cohesion.
