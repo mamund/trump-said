@@ -49,7 +49,7 @@ Inviting Bukele, criticized for authoritarian tactics and weakening democratic i
 #usPolitics #trumpSaid
 
 ## 2025-04-02
-On April 2, 2025, President Donald Trump announced the implementation of broad global tariffs, stating:
+On April 2, 2025, President Donald Trump announced the implementation of broad global tariffs, stating:
 
 `> "Foreign leaders have stolen our jobs, foreign cheaters have ransacked our factories, and foreign scavengers have torn apart our once-beautiful American Dream." ([cite](https://www.ndtv.com/world-news/a-little-tough-love-top-quotes-from-donald-trump-tariff-talk-8073946?utm_source=chatgpt.com))
 
@@ -83,7 +83,7 @@ Trump suggesting a third term defies the U.S. Constitution, which limits preside
 #usPoltics #trumpSaid
 
 ## 2025-03-30
-On March 30, 2025, President Donald Trump issued a stern warning to Iran regarding its nuclear program, stating:
+On March 30, 2025, President Donald Trump issued a stern warning to Iran regarding its nuclear program, stating:
 
 > "If Iran does not agree to our terms, there will be bombing like never seen before." ([cite](https://en.wikipedia.org/wiki/Donald_Trump%27s_letter_to_Ali_Khamenei?utm_source=chatgpt.com))
 
@@ -95,7 +95,7 @@ Trump threatening Iran with bombing escalates tensions, risks war, and undermine
 #usPoltics #trumpSaid
 
 ## 2025-03-29
-On March 29, 2025, President Donald Trump ordered French companies with U.S. government contracts to comply with his executive order banning diversity, equity, and inclusion programs, stating:
+On March 29, 2025, President Donald Trump ordered French companies with U.S. government contracts to comply with his executive order banning diversity, equity, and inclusion programs, stating:
 
 > "French companies must align with American anti-discrimination laws." ([cite](https://www.reuters.com/world/us-warns-french-companies-they-must-comply-with-trumps-diversity-ban-2025-03-29/?utm_source=chatgpt.com))
 
@@ -105,7 +105,7 @@ A president imposing his culture war agenda on other nations politicizes diploma
 #usPoltics #trumpSaid
 
 ## 2025-03-28
-On March 28, 2025, President Donald Trump addressed the ongoing trade tensions with Canada, stating:
+On March 28, 2025, President Donald Trump addressed the ongoing trade tensions with Canada, stating:
 
 > "Many countries have taken advantage of us, but not Canada... I think things will work out very well between Canada and the United States." ([cite](https://en.wikipedia.org/wiki/Timeline_of_the_2025_United_States_trade_war_with_Canada?utm_source=chatgpt.com))
 
@@ -125,7 +125,7 @@ Withdrawing Stefanik’s appointment to avoid a special election signals politic
 #usPoltics #trumpSaid
 
 ## 2025-03-26
-On March 26, 2025, President Donald Trump signed an executive order imposing a 25% tariff on imported automobiles and certain automobile parts, stating:
+On March 26, 2025, President Donald Trump signed an executive order imposing a 25% tariff on imported automobiles and certain automobile parts, stating:
 
 > "We will no longer tolerate unfair trade practices that threaten our automotive industry. These tariffs are necessary to protect American jobs and national security." ([cite](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-adjusts-imports-of-automobiles-and-automobile-parts-into-the-united-states/?utm_source=chatgpt.com))
 
@@ -135,7 +135,7 @@ A 25% tariff on imported cars raises prices for consumers, limits choices, and r
 #usPoltics #trumpSaid
 
 ## 2025-03-25
-On March 25, 2025, President Donald Trump announced plans to "reclaim" the Panama Canal, stating:
+On March 25, 2025, President Donald Trump announced plans to "reclaim" the Panama Canal, stating:
 
 > "My administration will be reclaiming the Panama Canal." ([cite](https://en.wikipedia.org/wiki/Second_presidency_of_Donald_Trump?utm_source=chatgpt.com))
 
@@ -147,7 +147,7 @@ Reclaiming the Panama Canal would violate international treaties, damage U.S.-La
 #usPoltics #trumpSaid
 
 ## 2025-03-24
-On March 24, 2025, President Donald Trump addressed the issue of student protests on college campuses, stating:
+On March 24, 2025, President Donald Trump addressed the issue of student protests on college campuses, stating:
 
 > "We are going to step up deportations of foreign students who engage in anti-Israel demonstrations. If they want to protest against our allies, they can do it elsewhere." ([cite](#))
 
@@ -167,7 +167,7 @@ Suggesting the U.S. take over Greenland disrespects Danish sovereignty and ignor
 #usPoltics #trumpSaid
 
 ## 2025-03-22
-On March 22, 2025, President Donald Trump addressed the ongoing trade tensions and the potential impact of new tariffs on consumer prices, stating:
+On March 22, 2025, President Donald Trump addressed the ongoing trade tensions and the potential impact of new tariffs on consumer prices, stating:
 
 > "I couldn't care less about higher prices." ([cite](https://www.wsj.com/business/autos/auto-stocks-fall-after-trump-says-he-couldnt-care-less-about-higher-prices-21cd7c16?utm_source=chatgpt.com))
 
